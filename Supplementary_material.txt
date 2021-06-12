@@ -1,0 +1,9 @@
+Video URL
+https://www.youtube.com/watch?v=EZxn8YtB3IQ
+
+Git Hub URL
+https://github.com/carlosahmm/Proycecto_Face_mask_detection
+
+Necesary content
+this content includes the trained model, images and video used
+https://drive.google.com/file/d/14EYUpcMvOgGEEt1M5Dwe8McPpwU6I9a1/view?usp=sharing
